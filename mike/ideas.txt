@@ -1,0 +1,5 @@
+Some ideas to code
+
+- list of clothes I want to buy
+- way to group salsa songs by bpm
+- apartment scraper
